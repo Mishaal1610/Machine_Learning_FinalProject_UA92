@@ -62,12 +62,7 @@ To run the program you need to have the datasets from https://www.kaggle.com/dat
 unbalanced_20_80_dataset.csv
 final_dataset.csv
 
-I have not attached the datasets to this upload as they are too large but however I am attaching the deliverables of the scripts above,
-which are the subset dataset and the trained model.
-
-training_dataset.csv 
-isoforest_model.pkg
-
+I have not attached the datasets to this upload as they are too large, have both the datasets from the link above to run the program.
 
 Thanks
 
